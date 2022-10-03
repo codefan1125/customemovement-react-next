@@ -1,6 +1,9 @@
 # E-commerce site with React & Next.js (https://www.thecustommovement.com/)
 
-## Logo screen
-![alt text](https://github.com/codefan1125/customemovement-react-next/blob/main/Screenshot_1.png?raw=true)
-## MEDIA ABOUT US
-![alt text](https://github.com/codefan1125/customemovement-react-next/blob/main/Screenshot_2.png?raw=true)
+Shopping cart website building with React and Next.js
+
+## Shopping cart
+![alt text](https://github.com/codefan1125/customemovement-react-next/blob/master/Screenshot_1.png?raw=true)
+## Log in
+![alt text](https://github.com/codefan1125/customemovement-react-next/blob/master/Screenshot_2.png?raw=true)
+
